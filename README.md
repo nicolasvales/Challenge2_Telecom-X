@@ -10,7 +10,7 @@ El proposito del análisis de la base de datos TelecomX_Data.json facilitado por
 <p>Se crean diferentes data frames para cada columna ya que dichas tienen diccionarios en cada una. Esto facilita la extracción de datos y futuras creaciones de visualizaciones.<p>
 <p>La verificación del contendido y la estandarización de los datos es necesaria ya que en muchos casos no pueden utilizarse para el desarrollo de las visualizaciones,como por ejemplo los datos en formato string y tienen que ser convertidos a tipo int64.<p>
 <h2 align="center"> Visualización de Gráficos<h2>
-![Texto alternativo](https://github.com/nicolasvales/Challenge2_Telecom-X/blob/main/Visualizaciones/visualizacion1.png?raw=true)
+![image](https://github.com/user-attachments/assets/ae7bf6a7-4f0d-4284-b77c-67a09579acae)
 <p>En el gráfico de torta(pie) se observa un importante abandono del servicio, aproximadamente 1/4 del total.</p>
 Visualizaciones/visualizacion2.png
 <p>En este gráfico de barras(bar) se observa que la diferencia de usuarios(que contraron y tambien los que no continuan con el servicio) es menor. Siendo mayor la cantidad de hombres que contraron el servicio.</p>
