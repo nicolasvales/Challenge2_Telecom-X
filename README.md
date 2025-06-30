@@ -10,5 +10,7 @@ El proposito del análisis de la base de datos TelecomX_Data.json facilitado por
 <p>Se crean diferentes data frames para cada columna ya que dichas tienen diccionarios en cada una. Esto facilita la extracción de datos y futuras creaciones de visualizaciones.<p>
 <p>La verificación del contendido y la estandarización de los datos es necesaria ya que en muchos casos no pueden utilizarse para el desarrollo de las visualizaciones,como por ejemplo los datos en formato string y tienen que ser convertidos a tipo int64.<p>
 <h2 align="center"> Visualización de Gráficos<h2>
-![image](https://github.com/user-attachments/assets/98167d06-713f-4f1d-aa9f-f71e53f33478)
+![image](https://github.com/user-attachments/assets/ade0dc2e-f2be-4359-bb86-6ce7e3e14d13)
+<p>En el gráfico de torta(pie) se observa un importante abandono del servicio, aproximadamente 1/4 del total.</p>
+
 
